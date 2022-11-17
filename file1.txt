@@ -1,2 +1,4 @@
 ini ditambah di lokal
 baris kedua di lokal
+edit di remote
+tambah di remote
